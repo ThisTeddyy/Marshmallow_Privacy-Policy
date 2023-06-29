@@ -62,4 +62,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 You can reach out to our Support Agents via our Support Server on Discord: https://dsc.gg/marshmallowsupport, if you need any further assistance or the Support Agents cannot help you, you can privately reach out to any developer which can also be found on our Support Server on Discord.
 
-# By using the Bot, you acknowledge that you have read and understood this
+# By using the Bot, you acknowledge that you have read and understood this.
