@@ -1,8 +1,8 @@
 # Privacy Policy for Marshmallow
 
-Last updated: 29/06/2023 (DD/MM/YYYY)
+Last updated: 01/05/2025 (DD/MM/YYYY)
 
-Marshmallow Systems operates the Discord Bot Marshmallow. This Privacy Policy informs you of our policies regarding the collection, use, and disclosure of personal information when you use the Bot.
+Wavey's Development Team operates the Discord Bot Wavey. This Privacy Policy informs you of our policies regarding the collection, use, and disclosure of personal information when you use the Bot.
 
 We will not use or share your information with anyone except as described in this Privacy Policy. By using the Bot, you agree to the collection and use of information in accordance with this policy.
 
@@ -60,6 +60,6 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 # 7. Contact Us
 
-You can reach out to our Support Agents via our [Support Server](https://dsc.gg/marshmallowsupport) on Discord, if you need any further assistance or the Support Agents cannot help you, you can privately reach out to any developer which can also be found on our [Support Server](https://dsc.gg/marshmallowsupport) on Discord.
+You can reach out to our Support Agents via our [Support Server](https://discord.gg/fAXXbb3Jtj) on Discord, if you need any further assistance or the Support Agents cannot help you, you can privately reach out to any developer which can also be found on our [Support Server](https://discord.gg/fAXXbb3Jtj) on Discord.
 
 # By using the Bot, you acknowledge that you have read and understood this.
