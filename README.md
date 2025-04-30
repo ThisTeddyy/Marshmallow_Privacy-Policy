@@ -1,4 +1,4 @@
-# Privacy Policy for Marshmallow
+# Privacy Policy for Wavey
 
 Last updated: 01/05/2025 (DD/MM/YYYY)
 
